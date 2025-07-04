@@ -26,5 +26,5 @@ p {
 iframe, video {
     display: block;
     margin: 0 auto;
-    max-width: 70px;
+    max-width: 700px;
 }
